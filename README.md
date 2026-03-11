@@ -72,7 +72,7 @@ dog-api-app
 1. Clone the repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/random-dog-generator.git
+git clone (https://github.com/PaulinaS123/Random-Dog-Generator-Assignment-.git)
 ```
 
 2. Navigate to the project folder
